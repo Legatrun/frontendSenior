@@ -1,0 +1,53 @@
+{
+  "accounts": [
+    {
+      "id": "acc-001",
+      "type": "checking",
+      "holderName": "Carlos Fernández",
+      "balance": 5400.75,
+      "currency": "USD",
+      "photo": "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    {
+      "id": "acc-002",
+      "type": "savings",
+      "holderName": "María López",
+      "balance": 12850.2,
+      "currency": "USD",
+      "photo": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    {
+      "id": "acc-003",
+      "type": "checking",
+      "holderName": "Javier Rojas",
+      "balance": 3200,
+      "currency": "USD",
+      "photo": "https://randomuser.me/api/portraits/men/65.jpg"
+    },
+    {
+      "id": "acc-004",
+      "type": "savings",
+      "holderName": "Ana Torres",
+      "balance": 9050.5,
+      "currency": "USD",
+      "photo": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    {
+      "id": "acc-005",
+      "type": "checking",
+      "holderName": "Luis Mendoza",
+      "balance": 1500,
+      "currency": "USD",
+      "photo": "https://randomuser.me/api/portraits/men/18.jpg"
+    },
+    {
+      "id": "acc-006",
+      "type": "savings",
+      "holderName": "Sofía Vargas",
+      "balance": 22340.9,
+      "currency": "USD",
+      "photo": "https://randomuser.me/api/portraits/women/29.jpg"
+    }
+  ],
+  "transactions": []
+}
